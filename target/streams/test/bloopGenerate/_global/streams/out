@@ -1,0 +1,4 @@
+[debug] [gameengine-test] Classpath dependencies List()
+[debug] [gameengine-test] Dependencies from configurations List(gameengine)
+[debug] Bloop wrote the configuration of project 'gameengine-test' to 'C:\Users\MARWAN\Desktop\Git Repository\GameEngine\.bloop\gameengine-test.json'
+[success] Generated .bloop\gameengine-test.json
