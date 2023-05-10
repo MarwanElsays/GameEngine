@@ -22334,3 +22334,8 @@ INFO: Schema "PUBLIC" is up to date. No migration necessary.
 2023.05.10 21:34:35 INFO  time: compiled gameengine in 3.74s
 May 10, 2023 9:34:57 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2023.05.10 21:35:29 INFO  Shutting down server
+2023.05.10 21:35:29 INFO  shutting down Metals
+2023.05.10 21:35:29 INFO  Shut down connection with build server.
+2023.05.10 21:35:29 INFO  Shut down connection with build server.
+2023.05.10 21:35:29 INFO  Exiting server
